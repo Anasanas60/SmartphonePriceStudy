@@ -1,5 +1,4 @@
-# SmartphonePriceStudy
-A machine learning project to predict smartphone prices in the Bangladeshi market using Linear Regression. This project covers data cleaning, feature engineering, and model evaluation.
+
 # Smartphone Price Study for the Bangladeshi Market
 
 This repository contains a machine learning project focused on predicting the price of smartphones based on their specifications. The project uses a dataset of phones available in the Bangladeshi market and applies a Linear Regression model to find the relationship between features and price.
